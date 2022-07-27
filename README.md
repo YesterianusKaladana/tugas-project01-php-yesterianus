@@ -4,4 +4,4 @@ Belajar For Loop pada PHP
 
 ### hari ini
 	✅ for loop
-	✅	pengulangan
+	
